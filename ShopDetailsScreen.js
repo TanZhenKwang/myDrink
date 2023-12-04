@@ -10,10 +10,10 @@ const ShopDetailsScreen = ({ route }) => {
     // Fetch product details based on productId (you can replace this with your own logic)
     const productDetails = {
         id: productId,
-        name: 'Thermos',
-        description: 'Thermos glass can fill hot water',
+        name: 'Nike',
+        description: 'Nike glass can fill hot water',
         price: '$30.00',
-        mainImage: require('./assets/Thermos.png'),
+        mainImage: require('./assets/Nike.png'),
     };
 
     const handleGoBack = () => {

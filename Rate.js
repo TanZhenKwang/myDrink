@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, Image, TouchableOpacity } from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome';
 import { useNavigation } from '@react-navigation/native';
 
-const productImage = require('./assets/Thermos.png'); // Replace with your product image
+const productImage = require('./assets/Nike.png'); // Replace with your product image
 
 const Rate = () => {
     const navigation = useNavigation();

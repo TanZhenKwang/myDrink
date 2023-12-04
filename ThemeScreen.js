@@ -4,14 +4,14 @@ import { gestureHandlerRootHOC } from 'react-native-gesture-handler';
 import Icon from 'react-native-vector-icons/FontAwesome';
 import { useNavigation } from '@react-navigation/native';
 
-const placeholderImage1 = require('./assets/seacartoon.jpg');
-const placeholderImage2 = require('./assets/beachcartoon.png');
+const placeholderImage1 = require('./assets/SnowBackground.jpg');
+const placeholderImage2 = require('./assets/SnowBackground.jpg');
 const placeholderImage3 = require('./assets/SnowBackground.jpg');
-const placeholderImage4 = require('./assets/Theme1.jpeg');
+const placeholderImage4 = require('./assets/Theme2.jpeg');
 const placeholderImage5 = require('./assets/Theme2.jpeg');
-const placeholderImage6 = require('./assets/Theme3.jpeg');
-const placeholderImage7 = require('./assets/fish.png');
-const placeholderImage8 = require('./assets/fish2.png');
+const placeholderImage6 = require('./assets/Theme2.jpeg');
+const placeholderImage7 = require('./assets/fish1.png');
+const placeholderImage8 = require('./assets/fish1.png');
 
 const ThemeCard = ({ item, selected, onPress }) => (
     <TouchableOpacity

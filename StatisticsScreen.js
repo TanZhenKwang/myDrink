@@ -58,7 +58,7 @@ const StatisticsScreen = () => {
   return (
     <ScrollView contentContainerStyle={styles.scrollContainer}>
       <ImageBackground
-        source={require('./assets/seacartoon.jpg')}
+        source={require('./assets/SnowBackground.jpg')}
         style={styles.backgroundImage}
       >
         <View style={styles.container}>

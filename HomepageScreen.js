@@ -13,7 +13,7 @@ const HomepageScreen = () => {
   return (
     <View style={styles.container}>
       {/* Use image2 as the background */}
-      <Image source={require('./assets/Home.png')} style={styles.backgroundImage} />
+      <Image source={require('./assets/Homr.png')} style={styles.backgroundImage} />
       <View style={styles.overlay}>
         <View style={styles.imageContainer}>
           <View style={styles.imageWrapper}>

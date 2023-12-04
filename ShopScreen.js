@@ -15,14 +15,14 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import { useNavigation } from '@react-navigation/native';
 
 const placeholderImage = require('./assets/drinks-advertisement1.jpg');
-const placeholderImage2 = require('./assets/Tupurware.png');
-const placeholderImage3 = require('./assets/health1.png');
-const placeholderImage4 = require('./assets/Thermos.png');
-const placeholderImage5 = require('./assets/health2.png');
+const placeholderImage2 = require('./assets/Nike.png');
+const placeholderImage3 = require('./assets/Health.png');
+const placeholderImage4 = require('./assets/Nike.png');
+const placeholderImage5 = require('./assets/Health.png');
 const placeholderImage6 = require('./assets/Nike.png');
-const placeholderImage7 = require('./assets/health3.png');
-const placeholderImage8 = require('./assets/health4.png');
-const placeholderImage9 = require('./assets/health5.png');
+const placeholderImage7 = require('./assets/Health.png');
+const placeholderImage8 = require('./assets/Health.png');
+const placeholderImage9 = require('./assets/Health.png');
 
 
 const ShopScreen = () => {

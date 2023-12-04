@@ -24,7 +24,7 @@ const ProfileScreen = () => {
     };
 
     return (
-        <ImageBackground source={require('./assets/beachcartoon.png')} style={styles.backgroundImage}>
+        <ImageBackground source={require('./assets/SnowBackground.jpg')} style={styles.backgroundImage}>
             <ScrollView style={styles.container}>
                 {/* Header */}
                 <TouchableOpacity style={styles.header} onPress={handleProfilePress}>

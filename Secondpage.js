@@ -13,7 +13,7 @@ const SecondPage = () => {
   return (
     <View style={styles.container}>
       {/* Full-page image */}
-      <Image source={require('./assets/Wallpaper1.png')} style={styles.fullPageImage} />
+      <Image source={require('./assets/Wallpaper1.jpg')} style={styles.fullPageImage} />
 
       {/* Arrow at bottom right */}
       <TouchableOpacity style={styles.arrowContainer} onPress={goToThirdPage}>

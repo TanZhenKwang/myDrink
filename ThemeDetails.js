@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, TouchableOpacity, Image } from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome';
 import { useNavigation } from '@react-navigation/native';
 
-const placeholderImage = require('./assets/seacartoon.jpg'); // Replace with your actual image path
+const placeholderImage = require('./assets/SnowBackground.jpg'); // Replace with your actual image path
 
 const ThemeDetails = () => {
     const navigation = useNavigation();
